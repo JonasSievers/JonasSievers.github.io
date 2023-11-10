@@ -13,7 +13,7 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the pages
 ---
 I am a Ph.D. student at the Karlsruhe Institut of Technology (KIT) affiliated with the Institute for Data Processing and Electronics (IPE), with a primary focus on machine learning applications in energy systems. Throughout my research I explore different machine learning techniques, including federated learning, reinforcement learning, and time series forecasting, as they are increasingly important in the optimization of energy management systems.
 
