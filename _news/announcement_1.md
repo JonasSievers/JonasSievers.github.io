@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper ["A Systematic Literature Review on Data-Driven Residential and Industrial Energy Management Systems"](https://doi.org/10.3390/en16041688) got accepted at Energies 2023.
+Our paper ["A Systematic Literature Review on Data-Driven Residential and Industrial Energy Management Systems"](https://doi.org/10.3390/en16041688) got accepted at Energies 2023.
