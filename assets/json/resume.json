@@ -5,19 +5,15 @@
   },
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Karlsruhe Institute of Technology, Karlsruhe, Germany",
+      "url": "https://www.kit.edu/english/index.php",
+      "area": "Machine Learning",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
+      "startDate": "2022-08-01",
+      "endDate": "2025-07-31",
     }
   ],
-  "awards": [
+  "Experience": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -25,20 +21,12 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
+  "Honors and Awards": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
+  ]
 }
