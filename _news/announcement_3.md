@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+:microphone: I gave a talk at ["Energy Status Data"](https://www.energystatusdata.kit.edu/) titled “Connected Energy Management Systems to supply smart production sites with renewable energies”.
