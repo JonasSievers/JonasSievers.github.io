@@ -1,7 +1,7 @@
 {
   "General Information": {
     "name": "Jonas Sievers",
-    "email": "jonas.sievers@kit.edu",
+    "email": "jonas.sievers@kit.edu"
   },
   "education": [
     {
@@ -10,7 +10,7 @@
       "area": "Machine Learning",
       "studyType": "PhD",
       "startDate": "2022-08-01",
-      "endDate": "2025-07-31",
+      "endDate": "2025-07-31"
     }
   ],
   "Experience": [
